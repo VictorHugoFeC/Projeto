@@ -2,7 +2,7 @@
 
 ## 1. Identificação do projeto
 **Nome do projeto:** Inova Tech  
-**Grupo (nomes):** Sarah Alves Lima, Levi Bambam Soares Machado, Victor Hugo Ferreira Cristianini, Sílvio Sapuile, Kelvyn Lee borges de Souza e Enzo dos Santos Neves, Gabriela Cardozo Cardin.  
+**Grupo (nomes):** Sarah Alves Lima, Levi Bambam Soares Machado, Victor Hugo Ferreira Cristianini, Sílvio Sapuile, Kelvyn Lee borges de Souza e Enzo dos Santos Neves, Gabriela Cardozo Cardin, Gustavo Felix de Almeida, Marcel Airo Oliveira da Silva.  
 **Versão/data:** Versão 3.2 - 04/03/2026
 
 ---
