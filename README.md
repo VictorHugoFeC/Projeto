@@ -131,14 +131,13 @@ Implementar um sistema informatizado de gestão de estoque que permita controle 
 
 ## 12. Casos de uso (lista + breve descrição)
 
-* **Consultar Histórico de Produtos** (Ator principal: Gerente)
-    * **Resumo:** Permite visualizar todos os produtos registrados por período, registrar a entrada e saída dos produtos. Auxilia na tomada de decisão e análise de desempenho comercial.
-* **Atualizar Estoque Automaticamente** (Ator principal: Supervisor)
-    * **Resumo:** Após a saída do produto, o sistema reduz automaticamente a quantidade do produto no estoque, garantindo que o estoque físico e o sistema permaneçam alinhados.
-* **Gerar Relatório de Produtos** (Ator principal: Supervisor)
-    * **Resumo:** Permite gerar relatórios gerais, sobre quantidades comercializadas, auxiliando na reposição e planejamento estratégico.
-* **Editar ou Cancelar** (Ator principal: Gerente)
-    * **Resumo:** Permite corrigir informações, bem como inativar e ativar produtos, garantindo integridade e confiabilidade dos dados.
+* GERENTE
+    * Consultar histórico de produtos: Visualiza entradas, saídas e desempenho dos produtos por período.
+    * Editar ou cancelar: Permite corrigir, ativar ou desativar produtos.
+    
+* SUPERVISOR
+    * Atualizar estoque automaticamente: O sistema ajusta o estoque após cada saída, mantendo tudo correto.
+    * Gerar relatório de produtos: Cria relatórios de vendas para ajudar no planejamento e reposição.
 
 ---
 
