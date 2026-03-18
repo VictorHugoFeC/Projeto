@@ -136,7 +136,7 @@ Implementar um sistema informatizado de gestão de estoque que permita controle 
     * Editar ou cancelar: Permite corrigir, ativar ou desativar produtos.
     
 * SUPERVISOR
-    * Atualizar estoque automaticamente: O sistema ajusta o estoque após cada saída, mantendo tudo correto.
+    * Atualizar estoque: O sistema ajusta o estoque após cada saída, mantendo tudo correto.
     * Gerar relatório de produtos: Cria relatórios de vendas para ajudar no planejamento e reposição.
 
 ---
