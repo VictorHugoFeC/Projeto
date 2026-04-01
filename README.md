@@ -56,8 +56,8 @@ Implementar um sistema informatizado de gestão de estoque que permita controle 
 
 **Fora do escopo (OUT):**
 * Uso de chat para conversas
-* Opção de entrega em domicílio
-* Registro de motoboy para entrega em domicílio
+* Opção de entregas em geral
+* Interação com o sistema de vendas
 
 ---
 
